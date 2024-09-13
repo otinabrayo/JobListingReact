@@ -1,7 +1,10 @@
-function App () {
-  return <div>
-    Hello World
-  </div>
-};
+import Navbar from './components/Navbar'
+
+function App() {
+  return <>
+  <Navbar />
+
+</>
+}
 
 export default App
